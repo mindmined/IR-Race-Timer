@@ -22,3 +22,5 @@ Maybee you have to flash the RX8508-Pro Arduino code and do a RSSI calibration (
 
 
 https://www.youtube.com/watch?v=Eo5z6aH0nhg
+
+https://www.youtube.com/watch?v=gW3CK7PTd3Y
