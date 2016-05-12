@@ -20,5 +20,5 @@ if the signal strength is so high or low (max. 60)
 
 Maybee you have to flash the RX8508-Pro Arduino code and do a RSSI calibration (haven't testet yet)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Eo5z6aH0nhg" frameborder="0" allowfullscreen></iframe>
 
+https://www.youtube.com/watch?v=Eo5z6aH0nhg
